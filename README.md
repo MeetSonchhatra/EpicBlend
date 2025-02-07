@@ -17,7 +17,7 @@ EpicBlend is a powerful and easy-to-use photo editing app built with Flutter. It
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/EpicBlend.git
+   git clone https://github.com/MeetSonchhatra/EpicBlend.git
    cd EpicBlend
    ```
 
