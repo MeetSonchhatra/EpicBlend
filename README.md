@@ -1,4 +1,4 @@
-```markdown
+
 # EpicBlend
 
 EpicBlend is a powerful and easy-to-use photo editing app built with Flutter. It allows users to edit photos by applying filters, adjusting brightness and contrast, adding stickers, and more. Users can save or share their edited images on various platforms.
